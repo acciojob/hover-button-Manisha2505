@@ -1,2 +1,14 @@
-
+#btn{
+	background-color: black;
+	color: white;
+	border-start-start-radius: 5px;
+	border-start-end-radius: 5px;
+	border-end-start-radius: 5px;
+	border-end-end-radius: 5px;
+	border: none;
+}
+#btn:hover {
+  background-color: blue;
+  color: white;
+}
 /* Your CSS Code here. */
